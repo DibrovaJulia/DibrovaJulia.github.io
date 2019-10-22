@@ -1,0 +1,3 @@
+tr:nth-child(even){background-color: #DEB887 }
+tr:nth-child(odd){background: #FFDAB9 }
+tr:hover{background-color: #B0C4DE}
